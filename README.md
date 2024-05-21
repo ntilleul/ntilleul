@@ -6,4 +6,9 @@
 ## I love 
 - 🖥️ programming
 - Games (🎮 Video games and 🎲 Board games)
-- ⛵ Sailing 
+- ⛵ Sailing
+# Activities
+## Languages
+![My languages](https://skillicons.dev/icons?i=python,bash,c,java,html,css)
+## Using
+![My languages](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord,windows,linux)
