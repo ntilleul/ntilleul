@@ -11,4 +11,4 @@
 ## Languages
 ![My languages](https://skillicons.dev/icons?i=python,bash,c,java,html,css)
 ## Using
-![My languages](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord,windows,linux)
+![My languages](https://skillicons.dev/icons?i=git,github,windows,linux,vscode,eclipse,discord)
