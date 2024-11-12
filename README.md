@@ -2,13 +2,13 @@
 # About me
 - 19 y.o.
 - [Student](https://en.wikipedia.org/wiki/Student) in [Université de Limoges](https://www.unilim.fr/) in [🥐 France](https://www.google.fr/maps/place/France)
-- 🎓 1st year in BUT Info
+- 🎓 2nd year in BUT Info
 ## I love 
 - 🖥️ programming
 - Games (🎮 Video games and 🎲 Board games)
 - ⛵ Sailing
 # Activities
 ## Languages
-![My languages](https://skillicons.dev/icons?i=python,bash,c,java,html,css)
+![My languages](https://skillicons.dev/icons?i=rust,python,cpp,c,java,php,html,css,bash)
 ## Using
-![My languages](https://skillicons.dev/icons?i=git,github,windows,linux,vscode,eclipse,discord)
+![My languages](https://skillicons.dev/icons?i=windows,linux,discord,git,github,vscode,sublime,idea)
