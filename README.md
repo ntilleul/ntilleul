@@ -12,3 +12,5 @@
 ![My languages](https://skillicons.dev/icons?i=rust,python,cpp,c,java,php,html,css,bash)
 ## Using
 ![My languages](https://skillicons.dev/icons?i=windows,linux,discord,git,github,vscode,sublime,idea)
+
+![youtube-video-gif](https://github.com/user-attachments/assets/3b28f06c-751c-441d-ad25-105f446c8194)
